@@ -1,4 +1,4 @@
-package dev.brian.materialbrian.widget;
+package dev.brian.materialbrian.ui.widget;
 
 /**
  * Author   :BrianDev
